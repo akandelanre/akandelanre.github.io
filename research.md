@@ -11,7 +11,7 @@ title: Research
 - **Akande, O.**, Reiter, J. P. and Barrientos, A. F. (2019), "Multiple Imputation of Missing Values in Household Data with Structural Zeros", _Survey Methodology_, forthcoming.  [Link](https://arxiv.org/abs/1707.05916)
 
 #### Submitted Manuscripts
-- **Akande, O.** and Reiter, J. P. (2019+), "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins."
+- **Akande, O.** and Reiter, J. P., "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins."
 
 #### Articles in Preparation
 - **Akande, O.**, Madson, G., Hillygus, D. S. and Reiter, J. P. (2019+), "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys", _in preparation_.
