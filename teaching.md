@@ -9,8 +9,6 @@ title: Teaching
   * Summer Term I, 2016: [Class Link](https://akandelanre.github.io/STA111_SummerI_2016/).
   * Summer Term II, 2014.
 
--------------------------
-
 ### Courses TA’ed at Duke
 * STA 440 - Case Studies
   * Fall 2018
@@ -23,3 +21,5 @@ title: Teaching
 
 * STA 111 - Probability and Statistical Inference
   * Spring 2014
+
+  -------------------------

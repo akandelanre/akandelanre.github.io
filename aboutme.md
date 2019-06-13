@@ -10,6 +10,6 @@ My research areas include Bayesian modeling, models for editing erroneous data, 
 
 I completed my PhD in [Statistical Science](https://stat.duke.edu) at Duke in 2019, under the supervision of Jerry Reiter. I also completed my MSc in Statistical and Economic modeling at Duke in 2015. Prior to coming to Duke, I worked as an analyst at KPMG Professional Services, Nigeria between 2011 and 2012, and completed my BSc in Mathematics and Statistics at the University of Lagos, Nigeria in 2010.
 
--------------------------
-
 Outside of work, I enjoy playing and watching soccer, reading, playing video games, listening to music, and traveling. I have also become a bit of an NBA fanatic and I intend to do some NBA-related research in the near future.
+
+-------------------------
