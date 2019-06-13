@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I will be joining Duke’s [Master in Interdisciplinary Data Science (MIDS)] (https://datascience.duke.edu) program in July 2019, as a member of the faculty.
+My research focuses on developing statistical methodology for handling missing and faulty data, with particular emphasis on applications that intersect with the social sciences. I am especially motivated to develop methods that can be readily applied by statistical agencies and data analysts.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I completed my PhD in [Statistical Science](https://stat.duke.edu) at Duke in 2019, under the supervision of Jerry Reiter. I also completed my MSc in Statistical and Economic modeling at Duke in 2015. Prior to coming to Duke, I worked as an analyst at KPMG Professional Services, Nigeria between 2011 and 2012, and completed my BSc in Mathematics and Statistics at the University of Lagos, Nigeria in 2010.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-------------------------
+My research areas include Bayesian modeling, models for editing erroneous data, multiple imputation, missing data, mixture models, and hierarchical modeling.
