@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Research
+title: Publications
 ---
-
-### Publications
 
 #### Peer-reviewed Publications
 - **Akande, O.**, Li, F. and Reiter, J. P. (2017), "An Empirical Comparison of Multiple Imputation Methods for Categorical Data", _The American Statistician, 71:2, 162-170_. [Link](http://amstat.tandfonline.com/eprint/64x4hfgkSgQPXwGrBSRV/full)
