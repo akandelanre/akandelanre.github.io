@@ -1,0 +1,5 @@
+"education" "county_pct" "jurors_num"
+"1" "Elementary" 28.3999996185303 1
+"2" "Secondary" 48.5 10
+"3" "Somecollege" 11.8999996185303 16
+"4" "Collegedegree" 11.1999998092651 35

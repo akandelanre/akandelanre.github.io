@@ -1,0 +1,85 @@
+---
+title: "Copy title from the lab pdf"
+author: "Your Name"
+date: "Date of lab session"
+output:
+  html_document:
+    highlight: pygments
+    theme: spacelab
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+# You can load more packages in this chunk but you shouldn't modify the next two lines.
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+* * *
+
+## Lab report
+
+**Load Data**
+```{r}
+# Enter your code for loading the data here
+```
+
+#### Question 1: 
+
+[Enter your response for Question 1 here.]
+
+```{r}
+# Enter your code for question 1 here
+
+```
+
+#### Question 2:
+
+[Enter your response for Question 2 here.]
+
+```{r}
+# Enter your code for question 2 here
+```
+
+
+#### Question 3:
+
+[Enter your response for Question 3 here.]
+
+```{r}
+# Enter your code for question 3 here
+```
+
+
+#### Question 4:
+
+[Enter your response for Question 4 here.]
+
+```{r}
+# Enter your code for question 4 here
+```
+
+
+#### Question 5:
+
+[Enter your response for Question 5 here.]
+
+```{r}
+# Enter your code for question 5 here
+```
+
+
+#### Question 6:
+
+[Enter your response for Question 6 here.]
+
+```{r}
+# Enter your code for question 6 here
+```
+
+
+* * *
+
+
+
