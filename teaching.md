@@ -12,14 +12,14 @@ title: Teaching
 -------------------------
 
 ### Courses TA’ed at Duke
-* STA 440 - Case Studies (Fall 2018)
-  * Instructor: Amy Herring
+* STA 440 - Case Studies
+  * Fall 2018
 
-* STA 723 - Statistics Case Studies (Spring 2018)
-  * Instructor: Fan Li
+* STA 723 - Statistics Case Studies
+  * Spring 2018
 
-* STA 732 - Theoretical Statistics (Spring 2017)
-  * Instructor: Li Ma
+* STA 732 - Theoretical Statistics
+  * Spring 2017
 
-* STA 111 - Probability and Statistical Inference (Spring 2014)
-  * Instructor: David Banks
+* STA 111 - Probability and Statistical Inference
+  * Spring 2014
