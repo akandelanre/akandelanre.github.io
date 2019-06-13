@@ -13,4 +13,4 @@ My research areas include Bayesian modeling, models for editing erroneous data, 
 
 -------------------------
 
-Outside of my work, I enjoy playing and watching soccer, watching the NBA, reading, playing video games, listening to music, and traveling.
+Outside of work, I enjoy playing and watching soccer, reading, playing video games, listening to music, and traveling. I have also become a bit of an NBA fanatic and I intend to do some NBA-related research in the near future.
