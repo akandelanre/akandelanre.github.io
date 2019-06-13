@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instructor
+title: Research
 ---
 
 #### Publications
