@@ -24,12 +24,13 @@ description: Olanrewaju Akande
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
-  Talks: "talks"
+  Research:
+    - Publications: "publications"
+    - Talks: "talks"
+    - Software: "software"
   Teaching: "teaching"
-  Software: "software"
   CV: "OlanrewajuAkande_CV.pdf"
-  Contact: "contact"
+  #Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
