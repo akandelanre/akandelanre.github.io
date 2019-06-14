@@ -28,7 +28,9 @@ navbar-links:
     - Publications: "publications"
     - Talks: "talks"
     - Software: "software"
-  Teaching: "teaching"
+  Teaching:
+    - Courses: "courses"
+    - Training: "training"
   CV: "OlanrewajuAkande_CV.pdf"
   #Contact: "contact"
 
