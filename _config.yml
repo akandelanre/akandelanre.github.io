@@ -65,7 +65,7 @@ footer-link-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+ navbar-img: "/img/word-cloud.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -107,12 +107,12 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "olanrewaju.akande@duke.edu"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "olanrewaju.akande@duke.edu"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-142128170-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
