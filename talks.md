@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-### Presentations, Workshops \& Posters
+### Presentations, Workshops & Posters
 * "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys," Joint Statistical Meetings, Denver, Colorado, Canada, July 2019 (contributed talk).
 
 * Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys,'' Duke Department of Statistical Science Seminar Series, March 2019 (presentation).
