@@ -3,23 +3,27 @@ layout: page
 title: Courses
 ---
 
-### Instructor, Department of Statistical Science, Duke University
-* STA 111 - Probability and Statistical Inference
-  * Summer Term I, 2018: [Class Link](https://akandelanre.github.io/STA111_SummerI_2018/).
-  * Summer Term I, 2016: [Class Link](https://akandelanre.github.io/STA111_SummerI_2016/).
-  * Summer Term II, 2014.
+### Social Science Research Institute, Duke University
+* IDS 702: Modeling and Representation of Data
+  * Fall 2019. [Class Link](https://akandelanre.github.io/IDS702_F19/).
 
-### Teaching Assistant, Department of Statistical Science, Duke University
-* STA 440 - Case Studies
-  * Fall 2018
+### Department of Statistical Science, Duke University
+* STA 111: Probability and Statistical Inference
+  * Summer I, 2018. [Class Link](https://akandelanre.github.io/STA111_SummerI_2018/).
+  * Summer I, 2016. [Class Link](https://akandelanre.github.io/STA111_SummerI_2016/).
+  * Summer II, 2014.
 
-* STA 723 - Statistics Case Studies
-  * Spring 2018
+### Department of Statistical Science, Duke University (As Teaching Assistant)
+* STA 440: Case Studies
+  * Fall 2018.
 
-* STA 732 - Theoretical Statistics
-  * Spring 2017
+* STA 723: Statistics Case Studies
+  * Spring 2018.
 
-* STA 111 - Probability and Statistical Inference
-  * Spring 2014
+* STA 732: Theoretical Statistics
+  * Spring 2017.
+
+* STA 111: Probability and Statistical Inference
+  * Spring 2014.
 
   -------------------------
