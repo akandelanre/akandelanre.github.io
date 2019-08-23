@@ -13,6 +13,6 @@ title: Publications
 - **Akande, O.** and Reiter, J. P., "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins,"  in volume in memory of Steve Fienberg, Springer.
 
 ### Articles in Preparation
-- **Akande, O.**, Hu, J., Wang, Q., and Reiter, J. P., "Edit-Imputation and Synthetic Data Generation For Household Data with the R package NestedCategBayesImpute," in preparation.
+- **Akande, O.**, Hu, J., Wang, Q., and Reiter, J. P., "Edit-Imputation and Synthetic Data Generation For Household Data with the R package NestedCategBayesImpute."
 
 -------------------------
