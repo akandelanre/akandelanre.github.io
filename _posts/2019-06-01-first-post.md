@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joining Duke's MIDS Program in July 2019
+title: Joining Duke's MIDS Program
 #image: /img/profile-pic.jpg
 ---
 
