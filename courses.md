@@ -9,8 +9,8 @@ title: Courses
 
 ### Department of Statistical Science, Duke University
 * STA 111: Probability and Statistical Inference
-  * Summer I, 2018. [Class Link](https://akandelanre.github.io/STA111-Summer2018-Course-Wesbite/).
-  * Summer I, 2016. [Class Link](https://akandelanre.github.io/STA111-Summer2016-Course-Wesbite/).
+  * Summer I, 2018. [Class Link](https://akandelanre.github.io/STA111-Summer2018-Course-Website/).
+  * Summer I, 2016. [Class Link](https://akandelanre.github.io/STA111-Summer2016-Course-Website/).
   * Summer II, 2014.
 
 ### Department of Statistical Science, Duke University (As Teaching Assistant)
