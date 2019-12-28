@@ -3,6 +3,10 @@ layout: page
 title: Courses
 ---
 
+### Department of Statistical Science, Duke University
+* STA 602L: Bayesian and Modern Statistics
+  * Spring 2020. [Class Link](https://sta-602l-s20.github.io/Course-Website/).
+
 ### Social Science Research Institute, Duke University
 * IDS 702: Modeling and Representation of Data
   * Fall 2019. [Class Link](https://ids-702-f19.github.io/Course-Website/).
