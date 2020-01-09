@@ -11,6 +11,7 @@ title: Publications
 ### Manuscripts Under Review
 - **Akande, O.**, Madson, G., Hillygus, D. S. and Reiter, J. P., "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys", submitted to _Journal of the Royal Statistical Society A_. [[arXiv Link]](https://arxiv.org/abs/1907.06145)
 - **Akande, O.** and Reiter, J. P., "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins,"  in volume in memory of Steve Fienberg, Springer.
+- Hu, J., **Akande, O.**, and Wang, Q., "Multiple imputation and synthetic data with the R package NPBayesImputeCat," submitted.
 
 ### Articles in Preparation
 - **Akande, O.**, Hu, J., Wang, Q., and Reiter, J. P., "Edit-Imputation and Synthetic Data Generation For Household Data with the R package NestedCategBayesImpute."
