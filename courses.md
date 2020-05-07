@@ -4,7 +4,10 @@ title: Courses
 ---
 
 ### Department of Statistical Science, Duke University
+* STA 360: Bayesian and Modern Statistics
+  * Summer II, 2020.
 * STA 602L: Bayesian and Modern Statistics
+  * Summer II, 2020.
   * Spring 2020. [Class Link](https://sta-602l-s20.github.io/Course-Website/).
 
 ### Social Science Research Institute, Duke University
