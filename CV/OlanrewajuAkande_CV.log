@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  7 FEB 2020 13:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 JUN 2020 18:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,70 +363,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--250
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (5.37875pt too wide) in paragraph at lines 293--294
+Overfull \hbox (5.37875pt too wide) in paragraph at lines 295--296
 \OT1/cmr/m/n/12 vited fac-ulty can-di-date sem-i-nar talk at Uni-ver-sity of To
 ronto, ON, Canada.
  []
 
 
-Overfull \hbox (7.14124pt too wide) in paragraph at lines 299--300
+Overfull \hbox (7.14124pt too wide) in paragraph at lines 301--302
 \OT1/cmr/m/n/12 Struc-tural Ze-ros,'' Con-tributed talk at Ad-vances in In-ter-
 dis-ci-plinary Statis-
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 411--414
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--359
-
- []
-
-[3] 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 433.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 433.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 441.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 441.
  (./OlanrewajuAkande_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 433.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 433.
-Package rerunfilecheck Info: File `OlanrewajuAkande_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 624B5058C8A30EDC58C1EC5101103658;868.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 433.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 441.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 441.
+
+
+Package rerunfilecheck Warning: File `OlanrewajuAkande_CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `OlanrewajuAkande_CV.out':
+(rerunfilecheck)             Before: 5626288467C7BD15AA119527379CCE9A;636
+(rerunfilecheck)             After:  136A76ECE9038F898E0406380538F03D;868.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 441.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 218 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5980 strings out of 492616
- 89245 string characters out of 6129482
+ 5977 strings out of 492616
+ 89200 string characters out of 6129482
  194207 words of memory out of 5000000
- 9831 multiletter control sequences out of 15000+600000
+ 9827 multiletter control sequences out of 15000+600000
  7331 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,13n,43p,368b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,13n,43p,377b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmti12.pfb>
-Output written on OlanrewajuAkande_CV.pdf (4 pages, 71547 bytes).
+Output written on OlanrewajuAkande_CV.pdf (4 pages, 71683 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
