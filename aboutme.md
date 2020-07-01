@@ -4,7 +4,7 @@ title: About Me
 ---
 ![](https://akandelanre.github.io/img/profile-pic.jpg)
 
-I am an Assistant Professor of the Practice in the Social Science Research Institute (primarily within Duke’s [Master in Interdisciplinary Data Science (MIDS)](https://datascience.duke.edu) program) at Duke University.
+I am an Assistant Professor of the Practice in the Social Science Research Institute at Duke University.
 
 My research areas include Bayesian modeling, models for editing erroneous data, multiple imputation, missing data, mixture models, and hierarchical modeling. My research particularly focuses on developing statistical methodology for handling missing and faulty data, with particular emphasis on applications that intersect with the social sciences. I am especially motivated to develop methods that can be readily applied by statistical agencies and data analysts.
 
