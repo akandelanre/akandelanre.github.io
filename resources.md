@@ -32,7 +32,7 @@ R Markdown can be used to create high quality reports and presentations with emb
 
 ### LaTeX
 
-You may also use LaTeX to type up your assignments. You may find it easier to create your TeX and LaTeX documents using online editors such as [Overleaf](https://www.overleaf.com) (simply create a free account and you are good to go!). However, that need not be the case. If you prefer to create them locally/offline on your personal computers, you will need to download a TeX distribution (the most popular choices are [MiKTeX](https://miktex.org/download) for Windows and [MacTeX](http://www.tug.org/mactex/) for macOS) plus an editor (I personally prefer [TeXstudio](https://www.texstudio.org) but feel free to download any editor of your choice). Follow the links below for some options, and to also learn how to use LaTeX.
+LaTeX is another very useful tool. You may find it easier to create your TeX and LaTeX documents using online editors such as [Overleaf](https://www.overleaf.com) (simply create a free account and you are good to go!). However, that need not be the case. If you prefer to create them locally/offline on your personal computers, you will need to download a TeX distribution (the most popular choices are [MiKTeX](https://miktex.org/download) for Windows and [MacTeX](http://www.tug.org/mactex/) for macOS) plus an editor (I personally prefer [TeXstudio](https://www.texstudio.org) but feel free to download any editor of your choice). Follow the links below for some options, and to also learn how to use LaTeX.
 
 1. [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 2. [Choosing a LaTeX Compiler](https://www.overleaf.com/learn/latex/Choosing_a_LaTeX_Compiler).
