@@ -30,6 +30,7 @@ navbar-links:
     - Software: "software"
   Teaching:
     - Courses: "courses"
+    - Resources: "resources"
     - Training: "training"
   CV: "CV/OlanrewajuAkande_CV.pdf"
   #Contact: "contact"
