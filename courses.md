@@ -18,7 +18,7 @@ title: Courses
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
 * STA 111: Probability and Statistical Inference
   - [Summer I, 2018](https://akandelanre.github.io/STA111-Summer2018-Course-Website/)
-  - [Summer I, 2018](https://akandelanre.github.io/STA111-Summer2016-Course-Website/)
+  - [Summer I, 2016](https://akandelanre.github.io/STA111-Summer2016-Course-Website/)
   - Summer II, 2014
 
 
