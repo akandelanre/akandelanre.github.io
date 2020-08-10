@@ -7,7 +7,7 @@ title: Courses
 
 ### Social Science Research Institute, Duke University
 * IDS 702: Modeling and Representation of Data
-  - Fall 2020
+  - [Fall 2020](https://ids-702-f20.github.io/Course-Website/)
   - [Fall 2019](https://ids-702-f19.github.io/Course-Website/)
 
 ### Department of Statistical Science, Duke University
