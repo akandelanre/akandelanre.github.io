@@ -15,6 +15,6 @@ title: Publications
 
 ### Articles in Preparation
 - **Akande, O.**, Hu, J., Wang, Q., and Reiter, J. P., "Edit-Imputation and Synthetic Data Generation For Household Data with the R package NestedCategBayesImpute."
-- Wongkamthong, C., and **Akande, O.**, "Missing Data Imputation for Ordinal Data: a Comparative Study of Statistical and Machine Learning Models."
+- Wongkamthong, C., and **Akande, O.**, "Multiple Imputation for Ordinal Data: a Comparative Study of Statistical and Machine Learning Models."
 
 -------------------------
