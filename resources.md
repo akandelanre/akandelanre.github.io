@@ -24,13 +24,15 @@ If you are a Duke student, you may have access to electronic copies of these boo
 
 R Markdown can be used to create high quality reports and presentations with embedded chunks of R code. To learn more about R Markdown and for other resources for programming in R, see the links below.
 
-1. [R for Data Science (by Hadley Wickham & Garrett Grolemund)](https://r4ds.had.co.nz)
-2. [Introduction to R Markdown (Article by Garrett Grolemund)](https://rmarkdown.rstudio.com/articles_intro.html)
-3. [Introduction to R Markdown (Slides by Andrew Cho)](http://rpubs.com/andrew-cho/303981)
-4. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
-5. [Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
-6. [Other Useful Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/#import)
-7. [A very (very!) basic R Markdown template](https://sta-602l-s20.github.io/Course-Website/labs/resources/LabReport.Rmd)
+1. [A very basic R Markdown template](https://sta-602l-s20.github.io/Course-Website/labs/resources/LabReport.Rmd)
+2. [Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+3. [Introduction to R Markdown (Article by Garrett Grolemund)](https://rmarkdown.rstudio.com/articles_intro.html)
+4. [Introduction to R Markdown (Slides by Andrew Cho)](http://rpubs.com/andrew-cho/303981)
+5. [Other Useful Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/#import)
+6. [R for Data Science (by Hadley Wickham & Garrett Grolemund)](https://r4ds.had.co.nz)
+7. [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+
 
 ### LaTeX
 
