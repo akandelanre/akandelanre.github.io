@@ -8,15 +8,17 @@ Below is a list of books and materials I use across my courses.
 ### Supplementary Textbooks
 
 If you are a Duke student, you may have access to electronic copies of these books (those not already available online for free) via Duke library.
-1. [James, G., Witten, D., Hastie, T., and Tibshirani, R., "An Introduction to Statistical Learning with Applications in R."](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-2. [Gelman A., and Hill, J., "Data Analysis Using Regression and Multilevel/Hierarchical Models."](https://www.amazon.com/gp/product/052168689X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=052168689X&linkCode=as2&tag=andrsblog0f-20&linkId=PX5B5V6ZPCT2UIYV)
-3. [Peter D. Hoff (2009), "A First Course in Bayesian Statistical Methods."](https://www.amazon.com/Bayesian-Statistical-Methods-Springer-Statistics/dp/0387922997)
-4. [Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin, "Bayesian Data Analysis (Third Edition)."](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
-5. [Ramsey, F.L. and Schafer, D.W. (2013), "The Statistical Sleuth: A Course in Methods of Data Analysis (3rd ed)."](https://www.amazon.com/Statistical-Sleuth-Course-Methods-Analysis/dp/1133490670)
-6. [Imbens, G. W. and Rubin, D. B. (2015), "Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction."](https://www.amazon.com/gp/product/0521885884/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
-7. [Agresti, A. (2013), "Categorical Data Analysis (3rd ed)."](https://www.amazon.com/Statistical-Sleuth-Course-Methods-Analysis/dp/1133490670)
-8. [Albert, J. (2009), "Bayesian Computation with R (Second Edition)."](https://www.amazon.com/Bayesian-Computation-R-Use/dp/0387922970)
-9. [Bolstad, W. M. and Curran, J. M. (2016), "Introduction to Bayesian Statistics (Third Edition)."](https://www.amazon.com/Introduction-Bayesian-Statistics-William-Bolstad/dp/1118091566)
+1. [Agresti, A. (2013), "Categorical Data Analysis (3rd ed)."](https://www.amazon.com/Statistical-Sleuth-Course-Methods-Analysis/dp/1133490670)
+2. [Albert, J. (2009), "Bayesian Computation with R (Second Edition)."](https://www.amazon.com/Bayesian-Computation-R-Use/dp/0387922970)
+3. [Bolstad, W. M. and Curran, J. M. (2016), "Introduction to Bayesian Statistics (Third Edition)."](https://www.amazon.com/Introduction-Bayesian-Statistics-William-Bolstad/dp/1118091566)
+4. [Gelman, A., Carlin, J., Stern, H., Dunson, D., Vehtari, A., and Rubin, D., "Bayesian Data Analysis (Third Edition)."](http://www.amazon.com/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/)
+5. [Gelman A., and Hill, J., "Data Analysis Using Regression and Multilevel/Hierarchical Models."](https://www.amazon.com/gp/product/052168689X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=052168689X&linkCode=as2&tag=andrsblog0f-20&linkId=PX5B5V6ZPCT2UIYV)
+6. [Hoff, P. D. (2009), "A First Course in Bayesian Statistical Methods."](https://www.amazon.com/Bayesian-Statistical-Methods-Springer-Statistics/dp/0387922997)
+7. [Imbens, G. W. and Rubin, D. B. (2015), "Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction."](https://www.amazon.com/gp/product/0521885884/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+8. [James, G., Witten, D., Hastie, T., and Tibshirani, R., "An Introduction to Statistical Learning with Applications in R."](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+9. [Ramsey, F.L. and Schafer, D.W. (2013), "The Statistical Sleuth: A Course in Methods of Data Analysis (3rd ed)."](https://www.amazon.com/Statistical-Sleuth-Course-Methods-Analysis/dp/1133490670)
+
+
 
 ### R and R Markdown Resources
 
