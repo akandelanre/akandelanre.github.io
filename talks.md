@@ -4,6 +4,8 @@ title: Talks
 ---
 
 ### Presentations, Workshops & Posters
+* "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins," Contributed talk at Joint Statistical Meetings. August 2020.
+
 * "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys," Contributed talk at Joint Statistical Meetings, Denver, CO. July 2019.
 
 * "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys," Department of Statistical Science seminar series talk at Duke University, Durham, NC. March 2019.

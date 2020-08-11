@@ -3,7 +3,7 @@ layout: page
 title: Courses
 ---
 
-## Instructor
+## As Instructor
 
 ### Social Science Research Institute, Duke University
 * IDS 702: Modeling and Representation of Data
@@ -22,7 +22,7 @@ title: Courses
   - Summer II, 2014
 
 
-## Teaching Assistant
+## As Teaching Assistant
 
 ### Department of Statistical Science, Duke University
 * STA 440: Case Studies
