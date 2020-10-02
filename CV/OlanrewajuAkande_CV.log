@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  31 AUG 2020 13:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  2 OCT 2020 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,107 +331,97 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 204.
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--221
+Underfull \hbox (badness 10000) in paragraph at lines 216--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--226
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--237
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 242--244
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--249
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--254
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
 
  []
 
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (5.37875pt too wide) in paragraph at lines 299--300
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 274.
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 274.
+ [2]
+Overfull \hbox (5.37875pt too wide) in paragraph at lines 332--333
 \OT1/cmr/m/n/12 vited fac-ulty can-di-date sem-i-nar talk at Uni-ver-sity of To
 ronto, ON, Canada.
  []
 
 
-Overfull \hbox (7.14124pt too wide) in paragraph at lines 305--306
+Overfull \hbox (7.14124pt too wide) in paragraph at lines 338--339
 \OT1/cmr/m/n/12 Struc-tural Ze-ros,'' Con-tributed talk at Ad-vances in In-ter-
 dis-ci-plinary Statis-
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 356--359
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 415--418
+Underfull \hbox (badness 10000) in paragraph at lines 419--422
 
  []
 
 
 AED: lastpage setting LastPage
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 445.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 445.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
  (./OlanrewajuAkande_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 445.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 445.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
 Package rerunfilecheck Info: File `OlanrewajuAkande_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 136A76ECE9038F898E0406380538F03D;868.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 445.
+(rerunfilecheck)             Checksum: B28E6DE9A5414292F8AF873FE0C8FD56;890.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 449.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 218 ({)
+### simple group (level 1) entered at line 228 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 5981 strings out of 492616
- 89252 string characters out of 6129482
+ 6001 strings out of 492616
+ 89585 string characters out of 6129482
  194207 words of memory out of 5000000
- 9831 multiletter control sequences out of 15000+600000
+ 9846 multiletter control sequences out of 15000+600000
  7331 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,13n,43p,377b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,12n,43p,377b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmti12.pfb>
-Output written on OlanrewajuAkande_CV.pdf (4 pages, 72253 bytes).
+/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti12.pfb>
+Output written on OlanrewajuAkande_CV.pdf (4 pages, 79537 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
