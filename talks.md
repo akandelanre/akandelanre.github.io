@@ -4,6 +4,8 @@ title: Talks
 ---
 
 ### Presentations, Workshops & Posters
+* "Handling Missing Data and Faulty Responses in Household Data," Seminar talk at UNC Quantitative Psychology Forum. October 2020.
+
 * "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins," Contributed talk at Joint Statistical Meetings. August 2020.
 
 * "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys," Contributed talk at Joint Statistical Meetings, Denver, CO. July 2019.
