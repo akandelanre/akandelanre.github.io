@@ -12,7 +12,7 @@ title: Publications
 
 ### Manuscripts Under Review
 - Hu, J., **Akande, O.**, and Wang, Q., "Multiple Imputation and Synthetic Data Generation with the R package NPBayesImputeCat," submitted. [[arXiv Link]](https://arxiv.org/abs/2007.06101)
-- Wongkamthong, C., and **Akande, O.**, "A Comparative Study of Imputation Methods for Multivariate Ordinal Data," submitted.
+- Wongkamthong, C., and **Akande, O.**, "A Comparative Study of Imputation Methods for Multivariate Ordinal Data," submitted. [[arXiv Link]](https://arxiv.org/abs/2010.10471)
 
 ### Articles in Preparation
 - **Akande, O.**, Hu, J., Wang, Q., and Reiter, J. P., "Edit-Imputation and Synthetic Data Generation For Household Data with the R package NestedCategBayesImpute."
