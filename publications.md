@@ -8,7 +8,7 @@ title: Publications
 - **Akande, O.**, Barrientos, A. F. and Reiter, J. P. (2018), "[Simultaneous Edit and Imputation For Household Data with Structural Zeros](https://dx.doi.org/10.1093/jssam/smy022)", _Journal of Survey Statistics and Methodology_, 0, 1–22.
 - **Akande, O.**, Reiter, J. P. and Barrientos, A. F. (2019), "[Multiple Imputation of Missing Values in Household Data with Structural Zeros](https://www150.statcan.gc.ca/n1/pub/12-001-x/2019002/article/00005-eng.htm)", _Survey Methodology_, , 45:2, 271-294.
 - **Akande, O.**, Madson, G., Hillygus, D. S. and Reiter, J. P. (2020), "Leveraging Auxiliary Information on Marginal Distributions in Nonignorable Models for Item and Unit Nonresponse in Surveys", _Journal of the Royal Statistical Society A (forthcoming)_. [[arXiv Link]](https://arxiv.org/abs/1907.06145)
-- **Akande, O.** and Reiter, J. P. (2020), "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins,"  in volume in memory of Steve Fienberg, Springer _(forthcoming)_.
+- **Akande, O.** and Reiter, J. P. (2020), "Multiple Imputation for Nonignorable Item Nonresponse in Complex Surveys Using Auxiliary Margins,"  in volume in memory of Steve Fienberg, Springer _(forthcoming)_. [[arXiv Link]](https://arxiv.org/abs/2011.05482)
 
 ### Manuscripts Under Review
 - Hu, J., **Akande, O.**, and Wang, Q., "Multiple Imputation and Synthetic Data Generation with the R package NPBayesImputeCat," submitted. [[arXiv Link]](https://arxiv.org/abs/2007.06101)
