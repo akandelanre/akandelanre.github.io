@@ -16,7 +16,7 @@ title: Courses
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
   - [Spring 2020](https://sta-602l-s20.github.io/Course-Website/)
 * STA 610L: Hierarchical Models
-  - Spring 2021
+  - [Spring 2021](https://sta-610l-s21.github.io/Course-Website/)
 * STA 360: Bayesian and Modern Statistics
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
 * STA 111: Probability and Statistical Inference
