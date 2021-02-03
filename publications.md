@@ -16,6 +16,6 @@ title: Publications
 
 ### Articles in Preparation
 - **Akande, O.**, Hu, J., Wang, Q., and Reiter, J. P., "Edit-Imputation and Synthetic Data Generation For Household Data with the R package NestedCategBayesImpute."
-- Wang, Z., **Akande, O.**, Li F., Poulos, J., "Are deep learning models superior for missing data imputation in complex surveys?: Evidence from an empirical comparison."
+- Wang, Z., Poulos, J., **Akande, O.**, Li F., "Are deep learning models superior for missing data imputation in complex surveys?: Evidence from an empirical comparison."
 
 -------------------------
