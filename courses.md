@@ -7,17 +7,21 @@ title: Courses
 
 ### Social Science Research Institute, Duke University
 * IDS 702: Modeling and Representation of Data
+  - Fall 2021
   - [Fall 2020](https://ids-702-f20.github.io/Course-Website/)
   - [Fall 2019](https://ids-702-f19.github.io/Course-Website/)
 
 ### Department of Statistical Science, Duke University
 * STA 602L: Bayesian and Modern Statistics
+  - [Summer I, 2021](https://sta-360-602l-su21.github.io/Course-Website/)
   - [Spring 2021](https://sta-602l-s21.github.io/Course-Website/)
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
   - [Spring 2020](https://sta-602l-s20.github.io/Course-Website/)
 * STA 610L: Hierarchical Models
+  - Fall 2021
   - [Spring 2021](https://sta-610l-s21.github.io/Course-Website/)
 * STA 360: Bayesian and Modern Statistics
+  - [Summer I, 2021](https://sta-360-602l-su21.github.io/Course-Website/)
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
 * STA 111: Probability and Statistical Inference
   - [Summer I, 2018](https://akandelanre.github.io/STA111-Summer2018-Course-Website/)
