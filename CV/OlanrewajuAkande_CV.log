@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  6 JUL 2021 15:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  6 JUL 2021 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,11 +331,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 206.
 
-Overfull \hbox (28.53732pt too wide) in paragraph at lines 206--211
-[][] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 218--221
 
  []
@@ -464,7 +459,7 @@ msy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on OlanrewajuAkande_CV.pdf (5 pages, 109288 bytes).
+Output written on OlanrewajuAkande_CV.pdf (5 pages, 109184 bytes).
 PDF statistics:
  193 PDF objects out of 1000 (max. 8388607)
  176 compressed objects within 2 object streams
