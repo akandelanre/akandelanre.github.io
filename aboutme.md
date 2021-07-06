@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-![](https://olanrewajuakande.com/img/profile-pic.jpg)
+![](https://www.olanrewajuakande.com/img/profile-pic.jpg)
 
 I am an Assistant Professor of the Practice in the [Social Science Research Institute](https://ssri.duke.edu), and the [Department of Statistical Science](https://stat.duke.edu) at Duke University.
 
