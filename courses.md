@@ -7,7 +7,7 @@ title: Courses
 
 ### Social Science Research Institute, Duke University
 * IDS 702: Modeling and Representation of Data
-  - Fall 2021
+  - [Fall 2021](https://ids702-f21.olanrewajuakande.com)
   - [Fall 2020](https://ids-702-f20.github.io/Course-Website/)
   - [Fall 2019](https://ids-702-f19.github.io/Course-Website/)
 
@@ -18,7 +18,7 @@ title: Courses
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
   - [Spring 2020](https://sta-602l-s20.github.io/Course-Website/)
 * STA 610L: Hierarchical Models
-  - Fall 2021
+  - [Fall 2021](https://sta610-f21.olanrewajuakande.com)
   - [Spring 2021](https://sta-610l-s21.github.io/Course-Website/)
 * STA 360: Bayesian and Modern Statistics
   - [Summer I, 2021](https://sta-360-602l-su21.github.io/Course-Website/)
@@ -27,7 +27,6 @@ title: Courses
   - [Summer I, 2018](https://www.olanrewajuakande.com/STA111-Summer2018-Course-Website/)
   - [Summer I, 2016](https://www.olanrewajuakande.com/STA111-Summer2016-Course-Website/)
   - Summer II, 2014
-
 
 ## As Teaching Assistant
 
