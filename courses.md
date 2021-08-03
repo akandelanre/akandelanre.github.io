@@ -12,14 +12,14 @@ title: Courses
   - [Fall 2019](https://ids-702-f19.github.io/Course-Website/)
 
 ### Department of Statistical Science, Duke University
+* STA 610L: Hierarchical Models
+  - [Fall 2021](https://sta610-f21.olanrewajuakande.com)
+  - [Spring 2021](https://sta-610l-s21.github.io/Course-Website/)
 * STA 602L: Bayesian and Modern Statistics
   - [Summer I, 2021](https://sta-360-602l-su21.github.io/Course-Website/)
   - [Spring 2021](https://sta-602l-s21.github.io/Course-Website/)
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
   - [Spring 2020](https://sta-602l-s20.github.io/Course-Website/)
-* STA 610L: Hierarchical Models
-  - [Fall 2021](https://sta610-f21.olanrewajuakande.com)
-  - [Spring 2021](https://sta-610l-s21.github.io/Course-Website/)
 * STA 360: Bayesian and Modern Statistics
   - [Summer I, 2021](https://sta-360-602l-su21.github.io/Course-Website/)
   - [Summer II, 2020](https://sta-360-602l-su20.github.io/Course-Website/)
