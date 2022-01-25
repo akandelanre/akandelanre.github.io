@@ -4,7 +4,9 @@ title: About Me
 ---
 ![](https://www.olanrewajuakande.com/img/profile-pic.jpg)
 
-I am an Assistant Professor of the Practice in the [Social Science Research Institute](https://ssri.duke.edu), and the [Department of Statistical Science](https://stat.duke.edu) at Duke University.
+Starting 2022, I will be pivoting and pursuing a new adventure away from academia to work as a Research Scientist at Meta. 
+
+Between 2019 and 2021, I was an Assistant Professor of the Practice (officially an Instructor from 2019 to 2020) in the [Social Science Research Institute](https://ssri.duke.edu), and the [Department of Statistical Science](https://stat.duke.edu) at Duke University.
 
 My research areas include Bayesian modeling, models for editing erroneous data, multiple imputation, missing data, mixture models, and hierarchical modeling. My research focuses primarily on developing statistical methodology for handling missing and faulty data, with particular emphasis on applications that intersect with the social sciences. I am especially motivated to develop methods that can be readily applied by statistical agencies and data analysts.
 
